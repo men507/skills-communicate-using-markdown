@@ -6,6 +6,15 @@ Just try
 library("tidyverse")
 ```
 
+```c
+#include <stdio.h>
+int main(void)
+{
+printf("hello, world!/n");
+return 0;
+}
+```
+
 - [x] task 1
 - [ ] task 2
 - [ ] task 3
